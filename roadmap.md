@@ -1,0 +1,6 @@
+- [x] Set up repository-- DONE
+- [x] Create README file-- DONE
+- [x] Create a markdown list-- DONE
+- [] Add in some code
+- [] Fix and debug code to ensure it works properly
+- [] Submit project
